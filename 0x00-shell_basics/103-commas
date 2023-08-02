@@ -1,2 +1,2 @@
-#!/ban/bash
+#!/bin/bash
 ls -m -a -v --group-directories-first --sort=version
